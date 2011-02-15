@@ -1,2 +1,2 @@
 #!/bin/sh
-cp -rv ebin include "$AGNER_INSTALL_PREFIX"
+cp -rv ebin "$AGNER_INSTALL_PREFIX"
